@@ -7,7 +7,7 @@ This **NPM** action allows you to query [npmjs.com](https://npmjs.com) for NPM p
 
 ## Installation
 
-Clone/download this repository's master and double-click the *NPM.lnbaction*. LaunchBar will then prompt you, whether you'd want to install it.
+Clone/download this repository's master and double-click the *NPM.lbaction*. LaunchBar will then prompt you, whether you'd want to install it.
 
 ## Usage
 
